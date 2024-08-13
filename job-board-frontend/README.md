@@ -1,0 +1,1 @@
+Frontend: The React.js frontend creates a user-friendly interface with components for applying to jobs and other features. State management and form handling are simplified with Redux and Formik.
